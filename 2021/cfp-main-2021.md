@@ -235,7 +235,7 @@ The proposal must cover all of the following points:
     2. The budget must handle different scenarios related to different venues, where applicable, including fixed
        rooms costs, catering, services, etc. Please provide cost estimates for 200, 400, 600 and 800
        attendees (if possible with the venue).
-    Please write to the PAC if you need help with setting up a budget plan.
+    3. Please write to the PAC if you need help with setting up a budget plan.
 
 # Proposal Format<a name="format"></a>
 
