@@ -166,7 +166,7 @@ The proposal must cover all of the following points:
    conference and events organizations.
 4. Previous conference history of the on-site team (if any). Describe which
    conferences were run and provide some figures on their size (registrations,
-tracks, total income)
+   tracks, total income)
 5. Assignment of key positions to on-site team members. Positions to be assigned
    (one member can be responsible for more than one of the following roles):
    1. Chairperson of the on-site team workgroup: usually also the conference chair and representative of the
@@ -221,7 +221,6 @@ tracks, total income)
     1. General information: touristic information, restaurants, mobility
     2. Travel information: how to get to the city and to the conference venue.
     3. Travel costs from the previous mentioned travel hubs to the conference venue
-
     This information should indicate how easily the conference city and
     venue are accessible. It should also answer questions like: Are there
     convenient ways to get to the conference venue from airports/trains and
@@ -236,7 +235,6 @@ tracks, total income)
     2. The budget must handle different scenarios related to different venues, where applicable, including fixed
        rooms costs, catering, services, etc. Please provide cost estimates for 200, 400, 600 and 800
        attendees (if possible with the venue).
-
     Please write to the PAC if you need help with setting up a budget plan.
 
 # Proposal Format<a name="format"></a>
@@ -269,5 +267,4 @@ The PyCon APAC framework can take reference from models such as [those of EuroPy
 Below are additional considerations specific for 2021 and is to be
 included in the proposal. Please include them in a separate section.
 
-- [Considerations concerning COVID-19]()
-
+- [Considerations concerning COVID-19](cfp-covid-2021.md)
