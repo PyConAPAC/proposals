@@ -2,8 +2,8 @@
 
 ## What
 
-This is a public repository to store and keep historical changes to proposals to
-the CfP to host PyCon APAC.
+This is a public repository to store and keep track of changes to proposals to
+the CfP for host PyCon APAC.
 
 ## Structure
 
