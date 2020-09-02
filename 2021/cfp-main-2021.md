@@ -186,7 +186,7 @@ The proposal must cover all of the following points:
    move to new locations with the conference, so a local contact is highly
    beneficial in attracting these sponsors.
    1. The PAC can assist with contacts with international sponsors where possible
-8. Proposed dates for PyCon APAC 2020.
+8. Proposed dates for PyCon APAC 2021.
 9. Keynote speakers proposed.
 10. Conference events. Describe which kind of (social) events you can propose for the conference and are able to
     provide support for.
