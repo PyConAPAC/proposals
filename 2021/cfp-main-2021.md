@@ -48,7 +48,7 @@ document carefully.
 - 9th Nov (Mon) - 1st peer review comments deadline, if any (1)
 - 20th Nov (Fri) - Deadline for amended and final proposals, if any (2)
 - 27th Nov (Fri) - Voting for PyCon APAC 2021 host
-- 4th Dec (Fri) - Voting ends and we'll annouce the host for PyCon APAC 2021
+- 4th Dec (Fri) - Voting ends and we'll announce the host for PyCon APAC 2021
 
 *If we do not receive any comments for (1), we will skip (2) and go straight to
 voting and deciding on the host*
