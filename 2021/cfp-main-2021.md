@@ -44,7 +44,7 @@ the requirements specified in this document. Please make sure to read the whole
 document carefully.
 
 - Between 4th to 11th Sept - CfP announcement and opening of proposals acceptance
-- 30th Oct (Mon) - Deadline for submissions, 1st peer review starts
+- 2nd Nov (Mon) - Deadline for submissions, 1st peer review starts
 - 9th Nov (Mon) - 1st peer review comments deadline, if any (1)
 - 20th Nov (Fri) - Deadline for amended and final proposals, if any (2)
 - 27th Nov (Fri) - Voting for PyCon APAC 2021 host
