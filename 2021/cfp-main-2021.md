@@ -43,12 +43,12 @@ Proposals must be submitted by midnight Anywhere on Earth (AoE UTC-12) on the de
 the requirements specified in this document. Please make sure to read the whole
 document carefully.
 
-- Between 4th to 11th Sept - CfP announcement and opening of proposals acceptance
-- 2nd Nov (Mon) - Deadline for submissions, 1st peer review starts
-- 9th Nov (Mon) - 1st peer review comments deadline, if any (1)
-- 20th Nov (Fri) - Deadline for amended and final proposals, if any (2)
-- 27th Nov (Fri) - Voting for PyCon APAC 2021 host
-- 4th Dec (Fri) - Voting ends and we'll announce the host for PyCon APAC 2021
+- Between 4th to 11th Sept 2020 - CfP announcement and opening of proposals acceptance
+- 2nd Nov (Mon) 2020 - Deadline for submissions, 1st peer review starts
+- 9th Nov (Mon) 2020 - 1st peer review comments deadline, if any (1)
+- 20th Nov (Fri) 2020 - Deadline for amended and final proposals, if any (2)
+- 27th Nov (Fri) 2020 - Voting for PyCon APAC 2021 host
+- 4th Dec (Fri) 2020 - Voting ends and we'll announce the host for PyCon APAC 2021
 
 *If we do not receive any comments for (1), we will skip (2) and go straight to
 voting and deciding on the host*
