@@ -238,6 +238,21 @@ The proposal must cover all of the following points:
        attendees (if possible with the venue).
     3. Please write to the PAC if you need help with setting up a budget plan.
 
+## APAC Organizers Progress Meetings
+
+Starting for PyCon APAC 2022, we'll have a set amount of PyCon APAC Organizers calls (virtual or otherwise)
+leading up to the conference day.
+
+These progress meetings are intended to give opportunity to the host organizing team to ask questions,
+get feedback and to source for ideas and help from the PyCon APAC organizers community. It will also be an opportunity
+for the wider community to get to know the organizers from the host country and check on the progress of the hosts.
+
+The calls will be hosted by the host country or the manager for the PyCon APAC proposals. The times of the calls are:
+
+1. Around 60 days after the annoucement of the host country
+2. Around 60 days after the 1st progress meeting
+3. 30 days before the 1st proper conference day
+
 # Proposal Format<a name="format"></a>
 
 Some things to consider when sending the proposal document:
