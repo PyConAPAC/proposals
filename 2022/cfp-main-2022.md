@@ -265,6 +265,10 @@ Some things to consider when sending the proposal document:
    references for these elements of the proposal. We need to publish the proposals to the general public and
    thus adhere to copyright restrictions that may apply to the content.
 
+## Samples of Proposals
+
+You can refer to the [proposals we received for PyCon APAC 2021](https://github.com/PyConAPAC/proposals/tree/master/2021/submissions) for some ideas on how a proposal is made.
+
 ## PyCon APAC - On the Longer Term<a name="longterm"></a>
 
 A longer term goal of PyCon APAC is to integrate on-site teams to workgroups within a PyCon APAC framework wherein
