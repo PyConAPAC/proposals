@@ -83,6 +83,7 @@ following is an estimate of past PyCon APAC's:
 - 1000+ participants in PyCon APAC (Seoul, South Korea)
 - 200+ participants in PyCon APAC (Kuala Lumpur, Malaysia)
 - 500+ participants in PyCon APAC (Manila, Philippines)
+- 100+ participants in PyCon APAC online (Bangkok, Thailand)
 
 The main medium of communication in PyCon APAC is also dependent on the hosting
 country. To meet the needs of an international audience however, and as host of
