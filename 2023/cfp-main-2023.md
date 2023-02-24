@@ -43,13 +43,13 @@ Proposals must be submitted by midnight Anywhere on Earth (AoE UTC-12) on the de
 the requirements specified in this document. Please make sure to read the whole
 document carefully.
 
-- 1st Sep (Wed) 2021 - CfP announcement and opening of proposals acceptance
-- 30th Sep (Thu) 2021 - Deadline for submissions, 1st peer review starts
-- 10th Oct (Sun) 2021 - 1st peer review comments deadline, if any (1)
-- 31st Oct (Sun) 2021 - Deadline for amended and final proposals, if any (2)
-- 7th Nov (Sun) 2021 - Voting starts for PyCon APAC 2023 host
-- 14th Nov (Sun) 2021 - Voting ends
-- 21st Nov (Sun) 2021 - We'll announce the host for PyCon APAC 2023 on the final day of PyCon APAC TH 2021
+- 1st Sep (Wed) 2022 - CfP announcement and opening of proposals acceptance
+- 30th Sep (Thu) 2022 - Deadline for submissions, 1st peer review starts
+- 10th Oct (Sun) 2022 - 1st peer review comments deadline, if any (1)
+- 31st Oct (Sun) 2022 - Deadline for amended and final proposals, if any (2)
+- 7th Nov (Sun) 2022 - Voting starts for PyCon APAC 2023 host
+- 14th Nov (Sun) 2022 - Voting ends
+- ~~21st Nov (Sun) 2021 - We'll announce the host for PyCon APAC 2023 on the final day of PyCon APAC TH 2021~~ 15th Feb 2023 - Because we didn't get any proposals in 2022, we announced JP as the PyCon APAC 2023 hosts
 
 *If we do not receive any comments for (1), we will skip (2) and go straight to
 voting and deciding on the host*
