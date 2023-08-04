@@ -107,7 +107,7 @@ by the APAC before implementation.
 1. The conference will be financially and legally run by an entity registered at the
    hosting country and for which the on-site team is part of.
 2. The on-site team must be geographically located in a country in the Asia Pacific
-   and Australasia region.
+   or Australasia region.
 3. The on-site team must be willing to actively coordinate with the PAC board and
    the other regional Python groups or Python workgroups where applicable, so
    that all parts of the PyCon APAC ecosystem can work together in a productive
