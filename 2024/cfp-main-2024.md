@@ -109,7 +109,7 @@ by the APAC before implementation.
 2. The on-site team must be geographically located in a country in the Asia Pacific
    or Australasia region.
 3. The on-site team must be willing to actively coordinate with the PAC board and
-   the other regional Python groups or Python workgroups where applicable, so
+   other regional Python groups or Python workgroups where applicable, so
    that all parts of the PyCon APAC ecosystem can work together in a productive
    way. Of importance is the quality of the presentations which should be kept
    relevant, current and to a good/high level.
