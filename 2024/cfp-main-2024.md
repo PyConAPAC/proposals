@@ -16,7 +16,7 @@
   - [PyCon APAC - On the Longer Term](#pycon-apac---on-the-longer-term)
   - [Additional considerations for PyCon APAC 2024](#additional-considerations-for-pycon-apac-2024)
 
-This is the announcement for the Call for Participation (CfP) for PyCon Asia Pacific
+This is the announcement for the Call for Participation (CfP) of PyCon Asia Pacific
 (APAC) 2024. The purpose of this call is to select an Asia Pacific in-country team
 willing and able to organize the Python conference in their home country.
 
