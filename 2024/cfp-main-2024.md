@@ -185,7 +185,7 @@ The proposal must cover all of the following points:
    will be acquired if needed (e.g., universities, other local associations, etc.). This list is indicative,
    as most of the volunteers helping during the conference are usually enrolled during the last months/weeks before
    the conference.
-7. List of potential international and local sponsors. Note : Local sponsors help a
+7. List of potential international and local sponsors. Note: Local sponsors help a
    lot in funding the conference. These are often smaller companies which will not
    move to new locations with the conference, so a local contact is highly
    beneficial in attracting these sponsors.
