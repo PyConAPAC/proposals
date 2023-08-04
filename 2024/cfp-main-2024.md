@@ -102,7 +102,7 @@ host fewer attendees, with a target of 100 attendees being the minimum.
 
 These are the requirements that an on-site team will sign-up to when submitting a
 proposal. Changes to these requirements are possible, but they must be approved
- by the APAC before implementation.
+by the APAC before implementation.
 
 1. The conference will be financially and legally run by an entity registered at the
    hosting country and for which the on-site team is part of.
