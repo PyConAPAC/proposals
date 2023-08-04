@@ -35,7 +35,7 @@ PyCon Asia Pacific in 2024 in a location they are based in. PyCon APAC is
 intended to serve as a platform for Python users throughout Asia-Pacific countries to
 come together to meet with fellow Python users. This is also true for anyone who is exploring Python.
 
-If you have not done so, pease also follow [PyCon APAC Twitter](https://twitter.com/pyconapac) for more
+If you have not done so, please also follow [PyCon APAC Twitter](https://twitter.com/pyconapac) for more
 short and quick updates on what's happening around the Asia Pacific region concerning PyCon and the Python
 community in general.
 
