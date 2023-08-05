@@ -143,9 +143,15 @@ by the APAC before implementation.
 7. The conference must provide the following services to all attendees. Proposals
    will have to provide details about how these can be implemented at the
    proposed venues:
-   1. Food and drinks for lunches and breaks on all conference days (and tutorials and sprints where applicable)
-   2. Optionally, breakfast on all conference days (not necessarily on the tutorial and sprint days where applicable)
-   3. WLAN service to access the Internet during the conference (and the tutorial and sprints if applicable)
+   1. Food and drinks for lunches and breaks on all conference days (and
+      tutorials and sprints where applicable). The on-site team is strongly
+      encouraged to cater for the needs of various dietary restrictions, of
+      religious restrictions or otherwise, and provide relevant information for
+      the participants.
+   2. Optionally, breakfast on all conference days (not necessarily on the
+      tutorial and sprint days where applicable).
+   3. WLAN service to access the Internet during the conference (and the
+      tutorial and sprints if applicable).
    4. At least one social event, which can be a dinner, a show or some other form of entertainment, where food
       and drinks are served.  The main social event should ideally be available to all attendees, but may also be
       limited to a lower number of people, if the selected venue cannot serve as many participants.
