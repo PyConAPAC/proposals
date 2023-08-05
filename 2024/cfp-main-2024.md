@@ -215,7 +215,7 @@ The proposal must cover all of the following points:
     4. A/V equipment
     5. Video recording, availability of on-site support for A/V recordings,
        possibly even including live- or post-editing
-    6. Lightning equipment, availability of on-site support for lighting
+    6. Lighting equipment, availability of on-site support for lighting
     7. Upstream internet connection (at least 100MB up and downstream)
     8. WLAN structure, service provider, their experience with similar events
        (The WLAN has to be able to handle at least the number of participant devices expected without problems)
