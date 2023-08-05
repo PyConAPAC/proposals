@@ -79,13 +79,13 @@ PyCon US and EuroPython where the number of participants are more stable, the
 number of participants at PyCon APAC varies depending on the hosting country. The
 following is an estimate of past PyCon APAC's:
 
-- 350+ participants in PyCon APAC (Singapore)
-- 500+ participants in PyCon APAC (Tokyo, Japan)
-- 700+ participants in PyCon APAC (Taipei, Taiwan)
-- 1000+ participants in PyCon APAC (Seoul, South Korea)
-- 200+ participants in PyCon APAC (Kuala Lumpur, Malaysia)
-- 500+ participants in PyCon APAC (Manila, Philippines)
-- 100+ participants in PyCon APAC online (Bangkok, Thailand)
+- 350+ participants in PyCon APAC (Singapore, 2012 and 2018)
+- 500+ participants in PyCon APAC (Tokyo, Japan, 2013)
+- 700+ participants in PyCon APAC (Taipei, Taiwan, 2014 and 2015)
+- 1000+ participants in PyCon APAC (Seoul, South Korea, 2016)
+- 200+ participants in PyCon APAC (Kuala Lumpur, Malaysia, 2017)
+- 500+ participants in PyCon APAC (Manila, Philippines, 2019)
+- 100+ participants in PyCon APAC online (Bangkok, Thailand, 2021)
 
 The main medium of communication in PyCon APAC is also dependent on the hosting
 country. To meet the needs of an international audience however, and as host of
