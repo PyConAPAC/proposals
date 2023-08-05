@@ -79,13 +79,13 @@ PyCon US and EuroPython where the number of participants are more stable, the
 number of participants at PyCon APAC varies depending on the hosting country. The
 following is an estimate of past PyCon APAC's:
 
-- 350+ participants in PyCon APAC (Singapore)
-- 500+ participants in PyCon APAC (Tokyo, Japan)
-- 700+ participants in PyCon APAC (Taipei, Taiwan)
-- 1000+ participants in PyCon APAC (Seoul, South Korea)
-- 200+ participants in PyCon APAC (Kuala Lumpur, Malaysia)
-- 500+ participants in PyCon APAC (Manila, Philippines)
-- 100+ participants in PyCon APAC online (Bangkok, Thailand)
+- 350+ participants in PyCon APAC (Singapore, 2012 and 2018)
+- 500+ participants in PyCon APAC (Tokyo, Japan, 2013)
+- 700+ participants in PyCon APAC (Taipei, Taiwan, 2014 and 2015)
+- 1000+ participants in PyCon APAC (Seoul, South Korea, 2016)
+- 200+ participants in PyCon APAC (Kuala Lumpur, Malaysia, 2017)
+- 500+ participants in PyCon APAC (Manila, Philippines, 2019)
+- 100+ participants in PyCon APAC online (Bangkok, Thailand, 2021)
 
 The main medium of communication in PyCon APAC is also dependent on the hosting
 country. To meet the needs of an international audience however, and as host of
@@ -143,9 +143,15 @@ by the APAC before implementation.
 7. The conference must provide the following services to all attendees. Proposals
    will have to provide details about how these can be implemented at the
    proposed venues:
-   1. Food and drinks for lunches and breaks on all conference days (and tutorials and sprints where applicable)
-   2. Optionally, breakfast on all conference days (not necessarily on the tutorial and sprint days where applicable)
-   3. WLAN service to access the Internet during the conference (and the tutorial and sprints if applicable)
+   1. Food and drinks for lunches and breaks on all conference days (and
+      tutorials and sprints where applicable). The on-site team is strongly
+      encouraged to cater for the needs of various dietary restrictions, of
+      religious restrictions or otherwise, and provide relevant information for
+      the participants.
+   2. Optionally, breakfast on all conference days (not necessarily on the
+      tutorial and sprint days where applicable).
+   3. WLAN service to access the Internet during the conference (and the
+      tutorial and sprints if applicable).
    4. At least one social event, which can be a dinner, a show or some other form of entertainment, where food
       and drinks are served.  The main social event should ideally be available to all attendees, but may also be
       limited to a lower number of people, if the selected venue cannot serve as many participants.
