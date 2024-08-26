@@ -54,10 +54,10 @@ PyCon APAC is the Python conference for countries in the Asia Pacific and Austra
 - 700+ participants in PyCon APAC (Taipei, Taiwan, 2014 and 2015)
 - 1000+ participants in PyCon APAC (Seoul, South Korea, 2016)
 - 200+ participants in PyCon APAC (Kuala Lumpur, Malaysia, 2017)
-- 500+ participants in PyCon APAC (Manila, Philippines, 2019)
-- 100+ participants in PyCon APAC online (Bangkok, Thailand, 2021)
-- (Taiwan 2022)
-- PyCon APAC (Tokyo, Japan 2023)
+- 500+ participants in [PyCon APAC (Manila, Philippines, 2019)](https://pycon-2019.python.ph)
+- 100+ participants in [PyCon APAC online (Bangkok, Thailand, 2021)](https://2021.th.pycon.org)
+- 500+ participants in [PyCon APAC online (Taipei, Taiwan 2022)](https://tw.pycon.org/2022/en-us/about)
+- 700+ participants [PyCon APAC (Tokyo, Japan 2023)](https://www.pycon.jp/organizer/index.html#pycon-apac-2023)
 
 The main medium of communication in PyCon APAC is also dependent on the hosting country. To meet the needs of an international audience, however, and as host of PyCon APAC, **the use of English (or translation to English) in the main and parallel tracks is a requirement.** PyCon APAC will have:
 
