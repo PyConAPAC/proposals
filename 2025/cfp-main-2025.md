@@ -181,4 +181,4 @@ The PyCon APAC framework can take reference from models such as [those of EuroPy
 Below are additional considerations specific to 2025 and are to be included in the proposal. Please include them in a separate section.
 
 - Health And Security Guidelines
-  COVID-19 is still with us. Consider having [Health And Security Guidelines](https://us.pycon.org/2024/about/health-safety-guidelines/) while keeping in mind of local laws, regulations and customs.
+  COVID-19 is still with us. Due to the international nature of APAC conferences where we will get many guests coming from different countries, consider having [Health And Security Guidelines](https://us.pycon.org/2024/about/health-safety-guidelines/) so attendees will feel safe while keeping in mind of local laws, regulations and customs.
