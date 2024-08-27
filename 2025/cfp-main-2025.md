@@ -139,6 +139,8 @@ The proposal must cover all of the following points:
     1. The budget should include all expected costs for the on-site support, including the venue costs, catering, on-site rental of equipment, costs for venue services and logistics, extras like public transport passes, etc. Optional budget positions should be indicated as such, to give more flexibility in comparing proposals.
     2. The budget must handle different scenarios related to different venues, where applicable, including fixed rooms costs, catering, services, etc. Please provide cost estimates for 200, 400, 600, and 800 attendees (if possible with the venue).
     3. Please write to the PAC if you need help with setting up a budget plan.
+17. Code Of Conduct (CoC)
+    PyCons are required to have Code Of Conducts (CoC) compatible with [PyCon US's Code Of Conduct](https://policies.python.org/us.pycon.org/code-of-conduct/). Please have a link to your CoC within the proposal.
 
 ## APAC Organizers Progress Meetings
 
@@ -178,4 +180,5 @@ The PyCon APAC framework can take reference from models such as [those of EuroPy
 
 Below are additional considerations specific to 2025 and are to be included in the proposal. Please include them in a separate section.
 
-- N/A
+- Health And Security Guidelines
+  COVID-19 is still with us. Consider having [Health And Security Guidelines](https://us.pycon.org/2024/about/health-safety-guidelines/) while keeping in mind of local laws, regulations and customs.
