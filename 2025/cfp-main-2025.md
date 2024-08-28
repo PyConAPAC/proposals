@@ -40,7 +40,7 @@ The CfP will run until the following deadline for submissions. Proposals must be
 
 ## Proposal Workflow<a name="workflow"></a>
 
-1. Send your proposal as a PDF to: [pycon-organizers-apac@googlegroups.com](mailto:pycon-organizers-apac@googlegroups.com)
+1. Send your proposal as a PDF to: [pycon-organizers-apac@googlegroups.com](mailto:pycon-organizers-apac@googlegroups.com) (This group will loosely be referred to as PyCon APAC Comittee or _PAC_)
 2. Due to time constraints this year, we will not be implementing a peer feedback review.
 3. After the submission deadline, we will vote for the host. To keep the voting manageable and efficient, voting will only be done among the [APAC country representatives](https://wiki.python.org/moin/PyConAPAC/Community).
 4. The final decision for the selection of the on-site team and location will be announced by the PAC within a week after the voting deadline ends.
